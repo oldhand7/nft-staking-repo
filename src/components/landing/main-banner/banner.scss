@@ -1,0 +1,27 @@
+.main-banner {
+
+    h2{
+        font-size: 30px;
+    }
+    .modal-content {
+        border-radius: 20px;
+        .for-padding {
+            padding: 0 50px;
+        }
+        .form-group {
+            input {
+                background: #FFFFFF;
+    border: 1px solid #D4D4D4;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 45px;
+    padding: 6px 12px;
+
+            }
+        }
+        .btn-common {
+            width: 100%;
+        }
+    }
+
+}

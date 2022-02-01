@@ -1,0 +1,19 @@
+.main-unstakedNfts {
+    .custom-Card {
+        margin-bottom: 10px;
+        border-radius: 8px;
+        .img-div {
+            width: 100%;
+            height: 180px;
+            overflow: hidden;
+
+            position: relative;
+            img {
+                width: 100%;
+                height: 180px;
+                border-radius: 18px;
+                object-fit: cover;
+            }
+        }
+    }
+}
